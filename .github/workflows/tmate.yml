@@ -50,5 +50,5 @@ jobs:
       - name: ⏳ Keep session alive
         run: |
           echo "⏳ Keeping session alive for 6 hours..."
-          sleep $((360 * 60))
+          sleep $((350 * 60))
  
